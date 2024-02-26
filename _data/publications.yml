@@ -2,13 +2,7 @@ main:
 
   - title: Programmable protein delivery with a bacterial contractile injection system
     authors: <strong>Joseph Kreitz</strong>, Mirco J. Friedrich, Akash Guru, Blake Lash, Makoto Saito, Rhiannon K. Macrae & Feng Zhang
-    conference_short:
     conference: <strong>Nature</strong>, 2023.
-    pdf: 
-    code: 
-    page: 
-    bibtex: 
-    notes: 
     image: ./assets/img/41586_2023_5870_Fig1_HTML.webp
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
