@@ -10,8 +10,8 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: Programmable protein delivery with a bacterial contractile injection system
-    authors: Joseph Kreitz, Mirco J. Friedrich, Akash Guru, Blake Lash, Makoto Saito, Rhiannon K. Macrae & Feng Zhang*
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -19,4 +19,4 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/41586_2023_5870_Fig1_HTML.webp
+    image: ./assets/img/teaser_example.png
