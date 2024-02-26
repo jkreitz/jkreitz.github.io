@@ -1,13 +1,6 @@
 main:
 
   - title: Programmable protein delivery with a bacterial contractile injection system
-    author: <strong>Joseph Kreitz<strong>, Mirco J. Friedrich, Akash Guru, Blake Lash, Makoto Saito, Rhiannon K. Macrae & Feng Zhang
-    conference: <strong>Nature<strong>, 2023.
-    Text: https://www.nature.com/articles/s41586-023-05870-7
-    image: ./assets/img/41586_2023_5870_Fig1_HTML.webp
-    notes:
-
-  - title: Programmable protein delivery with a bacterial contractile injection system
     authors: <strong>Joseph Kreitz<strong>, Mirco J. Friedrich, Akash Guru, Blake Lash, Makoto Saito, Rhiannon K. Macrae & Feng Zhang
     conference_short:
     conference: <strong>Nature<strong>, 2023.
