@@ -17,7 +17,6 @@ I am broadly interested in harnessing macromolecular systems from microbes and t
 - **[Oct. 2023]** Gave the keynote at the KCA annual meeting in Sydney, Australia. 
 - **[Mar. 2023]** Our paper describing the development of a novel protein delivery strategy with microbial nanosyringes is published in Nature! 
 
-## Publications
 
 
 {% include_relative _includes/publications.md %}
