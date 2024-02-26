@@ -9,8 +9,8 @@ I am a Ph.D. Candidate in Prof. Feng Zhang's lab in the department of Biological
 ## Research Interests
 
 I am broadly interested in harnessing macromolecular systems from microbes and their viruses as novel biotechnologies.
-- **Programmable therapeutic delivery with microbial nanosyringes:**
-- **Precision antimicrobial therapy with engineered bacteriophages:**
+- **Programmable therapeutic delivery with microbial nanosyringes**
+- **Precision antimicrobial therapy with engineered bacteriophages**
 
 ## News
 
