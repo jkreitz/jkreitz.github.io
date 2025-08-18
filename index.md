@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral fellow in the labs of Prof. Min Dong and Prof. George Church at Harvard Medical School and Boston Children's Hospital. 
+I am a postdoctoral fellow in the labs of Prof. Min Dong and Prof. George Church at Harvard Medical School and Boston Children's Hospital. I did my PhD in the lab of Prof. Feng Zhang at MIT/Broad Intitute.
 
 ## Research Interests
 
