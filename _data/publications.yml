@@ -5,6 +5,7 @@ main:
     conference: <strong>Nature</strong>, 2023.
     pdf: https://www.nature.com/articles/s41586-023-05870-7
     image: ./assets/img/41586_2023_5870_Fig1_HTML.webp
+    
   - title: Targeted delivery of diverse biomolecules with engineered bacterial nanosyringes
     authors: <strong>Joseph Kreitz</strong>, Victoria Yang, Mirco J. Friedrich, Julie Pham, Rhiannon K. Macrae & Feng Zhang*
     conference: <strong>Nature Biotechnology</strong>, 2025.
