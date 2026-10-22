@@ -14,7 +14,7 @@ I am broadly interested in characterizing and harnessing macromolecular systems 
 
 ## News
 
-- **[Oct. 2026]** Received an Outstanding Oral Presentation award at the 2026 Lakeside Protein Toxins and Effectors conference.
+- **[Oct. 2026]** Received an Outstanding Oral Presentation award at Lakeside Protein Toxins and Effectors 2026.
 - **[Aug. 2026]** Received a Robertson Foundation Fellowship from the Life Sciences Research Foundation (LSRF).
 - **[July. 2026]** Our second paper on contractile injection systems (CISs) is published in Nature Biotechnology.
 - **[Jan. 2025]** Successfully defended my Ph. D. thesis!
